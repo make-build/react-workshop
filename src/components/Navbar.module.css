@@ -1,0 +1,11 @@
+.navItem {
+  text-align: center !important;
+}
+
+.navText {
+  padding: 1rem 2rem;
+  color: black;
+  font-weight: 700;
+  font-family: monospace;
+  text-transform: uppercase;
+}
